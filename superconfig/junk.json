@@ -1,0 +1,41 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.editorAssociations": {
+        "*.docx": "default",
+        "*.apk": "default",
+        "*.js": "default",
+        "*.cpp": "default",
+        "*.json": "default",
+        "*.db": "default",
+        "*.dat": "default",
+        "*.jar": "default",
+        "*.py": "default"
+    },
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "python.defaultInterpreterPath": "C:\\Users\\wwwte\\AppData\\Local\\Microsoft\\WindowsApps\\python3.11.exe",
+    "C_Cpp.default.compilerPath": "c:\\Users\\wwwte\\Downloads\\Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup.exe",
+    "terminal.integrated.env.linux": {},
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": false,
+        "scminput": false
+    },
+    "redhat.telemetry.enabled": true,
+    "java.cleanup.actionsOnSave": [
+        "addOverride",
+        "qualifyMembers"
+    ],
+    "java.codeGeneration.generateComments": true,
+    "workbench.colorTheme": "Default High Contrast",
+    "files.autoSave": "onWindowChange",
+    "window.zoomLevel": -1,
+    "cmake.configureOnOpen": true,
+    "launch": {
+        "configurations": [
+        
+        ]
+    }
+}
